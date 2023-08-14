@@ -428,7 +428,7 @@ footer{
     }
 
     .desktop li a:hover{
-        text-shadow: 0 0 3px hsla(0, 0%, 0%, 0.5);
+        color: hsl(0, 0%, 89%);
     }
 
     .desktop-menu{
